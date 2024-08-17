@@ -4,7 +4,7 @@
 - 📫 How to reach me email : piyawongmahat@hotmail.com
 
 Leetcode
-![]([https://leetcard.jacoblin.cool/jacoblincool?ext=activity](https://leetcard.jacoblin.cool/piyawong?ext=activity))
+![](https://leetcard.jacoblin.cool/piyawong?ext=activity))
 
 <!---
 piyawong/piyawong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
